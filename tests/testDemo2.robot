@@ -89,5 +89,5 @@ Fill the login details and select the user option
     Wait Until Element Is Visible       xpath://div[@class='modal-body']
     Click Element       xpath://button[@id='okayBtn']
     Select From List By Value       //select[@class='form-control']         teach
-    Log     Amit
+    Log     Amit2
 
